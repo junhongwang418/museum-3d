@@ -1,5 +1,7 @@
 # Museum 3D
 
+Developed a virtual museum with JavaScript and WebGL as a computer graphics class project in a team of 3. Cited by Professor Ridge at Web3D 2019 Conference as an example of “active textbook”. Implemented advanced graphics features such as SkyBox, Water, and Mouse Picking.
+
 [Demo (Recommend Chrome Browser)](https://intro-graphics-master.github.io/term-project-8/)
 
 ![screenshot1](./images/screenshot1.png)
